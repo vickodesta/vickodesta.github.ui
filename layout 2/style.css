@@ -1,0 +1,13 @@
+@font-face {
+    font-family: righteous;
+    src: url(font/Righteous-Regular.ttf);
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    height: 800px;
+    display: grid;
+    grid-template-rows: 1fr 2fr 0.2fr;
+}
